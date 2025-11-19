@@ -1,4 +1,4 @@
-// @NUL0x4C | @mrd0x : MalDevAcademy
+
 
 /*
 	function stomping without the need of getting the address of the target function

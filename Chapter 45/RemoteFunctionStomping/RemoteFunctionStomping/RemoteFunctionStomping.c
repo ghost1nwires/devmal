@@ -1,4 +1,4 @@
-// @NUL0x4C | @mrd0x : MalDevAcademy
+
 
 /*
 	function stomping LoadLibrary and GetProcAddress
